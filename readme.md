@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Matrix Solver Program**
+- 🔭 I’m currently working on **GUI Calculator**
 
 - 📫 How to reach me **sagarsandeep365@gmail.com**
 
