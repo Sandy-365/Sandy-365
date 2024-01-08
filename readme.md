@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/developer-testing-app-design_665280-9621.jpg?w=740">
+
 - 💬 Ask me about **Python, Java, MySQL, C++, C**
 
 - 📫 How to reach me **sagarsandeep365@gmail.com**
