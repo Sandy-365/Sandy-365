@@ -1,10 +1,14 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Software Developer | Tech Enthusiast</h3>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="250" height="80"/>
+    </td>
+    <td>
+      <h1>Hi 👋, I'm Sandeep Kumar</h1>
+      <h3>🚀 Aspiring Data Scientist | Software Developer | Tech Enthusiast</h3>
+    </td>
+  </tr>
+</table>
 
 ----------------------------------------------------------------------------
 
