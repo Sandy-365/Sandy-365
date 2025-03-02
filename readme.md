@@ -1,30 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Software Developer | Tech Enthusiast</h3>
+<div style="display: flex; justify-content: center; align-items: center; position: relative;">
+  <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" 
+       alt="Profile Views" 
+       style="position: absolute; left: 0; width: 250px; height: 100px;" />
+  <div style="text-align: center;">
+    <h1>Hi 👋, I'm Sandeep Kumar</h1>
+    <h3>🚀 Aspiring Data Scientist | Software Developer | Tech Enthusiast</h3>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
+----------------------------------------------------------------------------
 
 # 🌟 About Me
 - 🎓 **B.Tech in Computer Science & Engineering, Lovely Professional University**
-- 💡 **Passionate about Data Science, Software Development and Game Development**
+- 💡 **Passionate about Data Science, Software Development, and Game Development**
 - 🛠️ **Building projects using Java, Python, R, C++, C, MySQL**
-- 📧 **Reach me at:** [sagarsandeep365@gmail.com](mailto:sagarsandeep365@gmail.com)
-
-
-# 🚀 Connect with Me
-<p align="center">
-<a href="https://github.com/Sandy-365" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40"/>
-</a>
-<a href="https://www.linkedin.com/in/sandeep365/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-</a>
+- **📧 Reach me at:** <a href="mailto:sagarsandeep365@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-filled/50/D14836/gmail.png" alt="Gmail" width="40" height="40" /></a> <a href="https://github.com/Sandy-365" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/181717/github.png" alt="GitHub" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/sandeep365/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" width="40" height="40" /></a>
 </p>
 
----
+----------------------------------------------------------------------------
 
 # 🛠️ Skills Summary
 <p align="center">
@@ -36,7 +29,7 @@
   ### **Database Management Tools:**   <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a> <a href="https://support.microsoft.com/en-us/excel"><img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>  <a href="https://www.tableau.com/learn/training"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" /></a>
 </p>
 
----
+----------------------------------------------------------------------------
 
 # 📌 Projects
 ### **🌊 Valuefy Project**
@@ -49,7 +42,8 @@
 - Integrated a library of over 500+ songs with play, pause, and stop features.
 - Achieved a **99% crash-free rate** with optimized UI and performance.
 
----
+
+----------------------------------------------------------------------------
 
 
 
@@ -67,16 +61,12 @@
 </div>
 
 
-
-
-
-
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sandy-365&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
----
+----------------------------------------------------------------------------
 
 🌟 **Thank you for visiting my profile! Let's connect and grow together. 🚀**
 
