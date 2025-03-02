@@ -60,7 +60,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-365&theme=radical" alt="GitHub Streak" width="900px" height="350px"/>
   </div>
   <!-- Stats & Languages Container -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="justify-content: center; align-items: center; gap: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sandy-365&show_icons=true&theme=radical" alt="GitHub Stats" width="490px" height="250px"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-365&layout=compact&theme=radical" alt="Top Languages" width="372px" height="250px"/>
   </div>
