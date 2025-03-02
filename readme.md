@@ -4,8 +4,8 @@
 ----------------------------------------------------------------------------
 
 # 🌟 About Me
-- 🎓 **B.Tech in Computer Science & Engineering, Lovely Professional University**
-- 💡 **Passionate about Data Science, Software Development, and Game Development**
+- 🎓 **B.Tech in Computer Science & Engineering, Lovely Professional University\n**
+- 💡 **Passionate about Data Science, Software Development, and Game Development\n**
 - 🛠️ **Building projects using Java, Python, R, C++, C, MySQL**
 - **📧 Reach me at:**  
   <a href="mailto:sagarsandeep365@gmail.com" target="_blank">
