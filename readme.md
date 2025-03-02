@@ -1,9 +1,9 @@
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="250" height="80"/>
+    <td width="30%">
+      <img src="https://komarev.com/ghpvc/?username=sandy-365&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" width="100%"/>
     </td>
-    <td>
+    <td width="70%">
       <h1>Hi 👋, I'm Sandeep Kumar</h1>
       <h3>🚀 Aspiring Data Scientist | Software Developer | Tech Enthusiast</h3>
     </td>
@@ -42,30 +42,32 @@
 
 ----------------------------------------------------------------------------
 
-# 📌 latest Projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌊 Valuefy Project</h3>
-      <ul>
-        <li>Developed a <b>real-time voice recognition app</b> for professionals.</li>
-        <li>Transcribed meeting details and extracted <b>key points and important times</b> from the transcription.</li>
-        <li>Implemented an efficient <b>speech-to-text processing pipeline</b> for structured data output.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎧 Music Player Application (Sep 2024)</h3>
-      <ul>
-        <li>Developed an interactive music player app using Java in Android Studio.</li>
-        <li>Integrated a library of over 500+ songs with play, pause, and stop features.</li>
-        <li>Achieved a <b>99% crash-free rate</b> with optimized UI and performance.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+# 📌 Latest Projects  
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🌊 Valuefy Project</h3>
+        <ul>
+          <li>Developed a <b>real-time voice recognition app</b> for professionals.</li>
+          <li>Transcribed meeting details and extracted <b>key points and important times</b> from the transcription.</li>
+          <li>Implemented an efficient <b>speech-to-text processing pipeline</b> for structured data output.</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🎧 Music Player Application (Sep 2024)</h3>
+        <ul>
+          <li>Developed an interactive music player app using Java in Android Studio.</li>
+          <li>Integrated a library of over 500+ songs with play, pause, and stop features.</li>
+          <li>Achieved a <b>99% crash-free rate</b> with optimized UI and performance.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ----------------------------------------------------------------------------
-
 
 # 📊 GitHub Stats  
 <p align="center">
@@ -77,10 +79,9 @@
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandy-365&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandy-365&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" width="80%"/>
 </p>
 
 ----------------------------------------------------------------------------
 
 🌟 **Thank you for visiting my profile! Let's connect and grow together. 🚀**
-
