@@ -42,7 +42,7 @@
 
 ----------------------------------------------------------------------------
 
-# 📌 Projects
+# 📌 latest Projects
 <table>
   <tr>
     <td width="50%">
@@ -67,20 +67,13 @@
 ----------------------------------------------------------------------------
 
 
-
-# 📊 GitHub Stats
-<div align="center">
-  <!-- Streak Container -->
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-365&theme=radical" alt="GitHub Streak" width="700px" height="350px"/>
-  </div>
-  <!-- Stats & Languages Container -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sandy-365&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" height="250px"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-365&layout=compact&theme=radical" alt="Top Languages" width="300px" height="250px"/>
-  </div>
-</div>
-
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-365&theme=radical" alt="GitHub Streak" width="90%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandy-365&show_icons=true&theme=radical" alt="GitHub Stats" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-365&layout=compact&theme=radical" alt="Top Languages" width="35%"/>
+</p>
 
 # 🏆 GitHub Trophies
 <p align="center">
