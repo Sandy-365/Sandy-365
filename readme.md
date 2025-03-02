@@ -34,16 +34,26 @@
 ----------------------------------------------------------------------------
 
 # 📌 Projects
-### **🌊 Valuefy Project**
-- Developed a **real-time voice recognition app** for professionals.
-- Transcribed meeting details and extracted **key points and important times** from the transcription.
-- Implemented an efficient **speech-to-text processing pipeline** for structured data output.
-
-### **🎧 Music Player Application (Sep 2024)**
-- Developed an interactive music player app using Java in Android Studio.
-- Integrated a library of over 500+ songs with play, pause, and stop features.
-- Achieved a **99% crash-free rate** with optimized UI and performance.
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌊 Valuefy Project</h3>
+      <ul>
+        <li>Developed a <b>real-time voice recognition app</b> for professionals.</li>
+        <li>Transcribed meeting details and extracted <b>key points and important times</b> from the transcription.</li>
+        <li>Implemented an efficient <b>speech-to-text processing pipeline</b> for structured data output.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎧 Music Player Application (Sep 2024)</h3>
+      <ul>
+        <li>Developed an interactive music player app using Java in Android Studio.</li>
+        <li>Integrated a library of over 500+ songs with play, pause, and stop features.</li>
+        <li>Achieved a <b>99% crash-free rate</b> with optimized UI and performance.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ----------------------------------------------------------------------------
 
