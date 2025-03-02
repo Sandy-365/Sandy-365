@@ -63,7 +63,7 @@
 <div align="center">
   <!-- Streak Container -->
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-365&theme=radical" alt="GitHub Streak" width="800px" height="350px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-365&theme=radical" alt="GitHub Streak" width="700px" height="350px"/>
   </div>
   <!-- Stats & Languages Container -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
